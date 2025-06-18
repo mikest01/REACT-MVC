@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Bodega.Controllers.ArticulosController",
+    "Method": "GetArticulos",
+    "RelativePath": "api/Articulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bodega.Controllers.MovimientosController",
+    "Method": "RegistrarMovimiento",
+    "RelativePath": "api/Movimientos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimiento",
+        "Type": "Bodega.Movimientos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
