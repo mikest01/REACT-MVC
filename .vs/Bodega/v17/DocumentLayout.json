@@ -1,12 +1,138 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\Bodega\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|0acac1f3-95a6-46e6-a826-33b67686d26fMSSQL__/_localdb__ProjectModels/Bodega/True/SqlTable/Create dbo.Articulos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\soyongcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\soyongcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|c:\\users\\micha\\source\\repos\\bodega\\bodega\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B773C6-473E-460F-99BC-FA2BCCF5B1D2}|Bodega\\Bodega.csproj|solutionrelative:bodega\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|0acac1f3-95a6-46e6-a826-33b67686d26fMSSQL__/_localdb__ProjectModels/Bodega/True/SqlTable/Create dbo.Articulos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Articulos.cs",
+              "RelativeDocumentMoniker": "Bodega\\Articulos.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Articulos.cs",
+              "RelativeToolTip": "Bodega\\Articulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:34:13.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movimientos.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Movimientos.cs",
+              "RelativeDocumentMoniker": "Bodega\\Movimientos.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Movimientos.cs",
+              "RelativeToolTip": "Bodega\\Movimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:34:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create dbo.Articulos ",
+              "DocumentMoniker": "0acac1f3-95a6-46e6-a826-33b67686d26fMSSQL__/_localdb__ProjectModels/Bodega/True/SqlTable/Create dbo.Articulos.sql",
+              "ToolTip": "Create dbo.Articulos ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-19T02:31:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\appsettings.json",
+              "RelativeDocumentMoniker": "Bodega\\appsettings.json",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\appsettings.json",
+              "RelativeToolTip": "Bodega\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T02:24:33.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Bodega\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Bodega\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:14:12.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Program.cs",
+              "RelativeDocumentMoniker": "Bodega\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\Program.cs",
+              "RelativeToolTip": "Bodega\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:36:13.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoyongContext.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\SoyongContext.cs",
+              "RelativeDocumentMoniker": "Bodega\\SoyongContext.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Bodega\\Bodega\\SoyongContext.cs",
+              "RelativeToolTip": "Bodega\\SoyongContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:36:11.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

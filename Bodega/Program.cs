@@ -19,6 +19,7 @@ builder.Services.AddCors(options =>
               .AllowAnyMethod();
     });
 });
+
 var app = builder.Build();
 app.UseRouting();
 
@@ -31,7 +32,11 @@ if (app.Environment.IsDevelopment())
     app.UseStaticFiles();    
 }
 // Usar CORS
-app.UseCors("AllowReact");
+app.UseCors(builder =>
+    builder.AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader());
+
 // Configurar el resto de los middlewares
 app.UseHttpsRedirection();
 app.UseRouting();

@@ -84,3 +84,4 @@ C:\Users\micha\source\repos\Bodega\Bodega\obj\Debug\net8.0\refint\Bodega.dll
 C:\Users\micha\source\repos\Bodega\Bodega\obj\Debug\net8.0\Bodega.pdb
 C:\Users\micha\source\repos\Bodega\Bodega\obj\Debug\net8.0\Bodega.genruntimeconfig.cache
 C:\Users\micha\source\repos\Bodega\Bodega\obj\Debug\net8.0\ref\Bodega.dll
+C:\Users\micha\source\repos\Bodega\Bodega\obj\Debug\net8.0\Bodega.sourcelink.json
